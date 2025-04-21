@@ -3,8 +3,6 @@ title:  "Oops I Broke My Site"
 author: sadukie
 ---
 
-# Oops, I Broke My Site!
-
 How did I manage that? Have you met me?
 
 Well... I figured it was time to update the WordPress blog.
