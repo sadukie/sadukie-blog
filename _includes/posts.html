@@ -1,6 +1,6 @@
 <h2>Posts</h2>
 <ul>
-    {% for post in site.posts %}
+    {% for post in include.posts %}
         {% if page.url contains "http" %}
         {% assign domain = '' %}
         {% elsif page.url contains "mailto" %}
