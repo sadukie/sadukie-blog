@@ -1,6 +1,5 @@
 ---
-title:  "Oops I Broke My Site"
-author: sadukie
+title:  "Sarah Broke It"
 ---
 
 How did I manage that? Have you met me?
