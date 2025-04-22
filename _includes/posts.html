@@ -9,7 +9,7 @@
             {% assign domain = site.url | append: site.baseurl %}
         {% endif %}
         <li>
-            {{ post.date | date: "%Y/%m/%d" }} - <a href="{{domain}}{{ post.url }}">{{ post.title }}</a>
+            {{ post.date | date: "%Y-%m-%d" }} - <a href="{{domain}}{{ post.url }}">{{ post.title }}</a>
         </li>
     {% endfor %}
 </ul>
