@@ -1,6 +1,6 @@
 ---
 title:  "Checking In"
-tags: community
+tags: community careers
 ---
 
 It's been awhile since I last wrote here, so I wanted to check in and let you know what's going on.
