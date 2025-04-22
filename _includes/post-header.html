@@ -1,8 +1,8 @@
 <h1>{{ page.title }}</h1>
 <small>{{page.date | date: "%B %-d, %Y"}}</small>
-{%- if page.tags -%}
-  <br /><small>Tags: |</small>
+{% if page.tags %}
+  <br /><small>Tags: </small>
   {% for tag in page.tags %}
-    <small>{{ tag[0] }} |</small>
+    <small>{{ tag[0] }}{% unless forloop.last %}, {% endunless %}</small>
   {% endfor %}
-{%- endif -%}
+{% endif %}
