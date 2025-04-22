@@ -3,6 +3,6 @@
 {% if page.tags %}
   <br /><small>Tags: </small>
   {% for tag in page.tags %}
-    <small>{{ tag[0] }}{% unless forloop.last %}, {% endunless %}</small>
+    <small>{{ tag }}{% unless forloop.last %}, {% endunless %}</small>
   {% endfor %}
 {% endif %}
