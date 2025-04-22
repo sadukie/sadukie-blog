@@ -16,7 +16,7 @@ Now I've been meaning to deal with this issue for awhile - so I'm glad I did thi
 
 ## So new WordPress site?
 
-Ha! Their community has been having issues for awhile, and I've been pondering moving to a static site.
+Their community has been [having](https://www.theverge.com/2024/9/27/24256361/wordpress-wp-engine-drama-explained-matt-mullenweg) [issues](https://wptavern.com/matt-mullenweg-asks-what-drama-to-create-in-2025-community-reacts) for awhile, and I've been pondering moving to a static site.
 
 So breaking my site turned out to be a good thing. It forced me to revisit the static site generator.
 
