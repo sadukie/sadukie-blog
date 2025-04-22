@@ -19,3 +19,7 @@ Now I've been meaning to deal with this issue for awhile - so I'm glad I did thi
 Ha! Their community has been having issues for awhile, and I've been pondering moving to a static site.
 
 So breaking my site turned out to be a good thing. It forced me to revisit the static site generator.
+
+Thankfully, I am on a documentation project for work. With that project, I'm using GitHub Pages. I've been able to see how to use GitHub Pages to host documentation and let me write without having to manage the site generator's dependencies. I'm in heaven!
+
+I'll link to the post I wrote for work about making this choice once the page is live!
