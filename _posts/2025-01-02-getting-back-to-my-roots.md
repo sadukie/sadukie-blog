@@ -1,5 +1,6 @@
 ---
 title:  "Getting Back to My Roots"
+tag: careers
 ---
 
 A long, long time ago, in this galaxy, there was a girl who enjoyed writing updates about the high school news. She used an editor known as Adobe PageMill, and she made sure people knew what was going on. A few months into that adventure, a guy showed up at the afterschool club and asked her why she was using PageMill and why she wasn’t writing HTML. She learned HTML and fell in love with programming even more – after seeing what she could do with Applesoft Basic years earlier and now seeing what she could do with HTML on “the web”, she knew this would end up going somewhere.

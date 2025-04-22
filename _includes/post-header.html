@@ -1,0 +1,6 @@
+<h1>{{ page.title }}</h1>
+<small>{{page.date | date: "%B %-d, %Y"}}</small>
+<br /><small>Tags: |</small>
+{% for tag in site.tags %}
+  <small>{{ tag[0] }} |</small>
+{% endfor %}
