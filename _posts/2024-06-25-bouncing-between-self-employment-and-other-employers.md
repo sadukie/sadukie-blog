@@ -1,6 +1,6 @@
 ---
 title: "Bouncing Between Self-Employment and Other Employers"
-tags: careers self+employment
+tags: careers self-employment
 ---
 
  I was hanging out in the [Multithreaded Income podcast](https://podcast.multithreadedincome.com/)‘s Discord server, and a conversation about staying freelance versus working for “the man” an employer got me thinking. I have been bouncing around between working for myself and working for employers since 2011, after solely working for employers since the late 90s.
