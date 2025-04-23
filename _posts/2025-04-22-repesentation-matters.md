@@ -43,4 +43,4 @@ After more than two decades in tech, I wish I could say we've come farther. But 
 
 It's not about checking a box. It's about sending a signal: __You belong here__. And when conferences - even the ones doing the work behind the scenes - don't reflect that visibly, it tells a different story.
 
-We can all do better. And the ones doing it right? They prove it's possible. We don't need perfection. We just need intention. And visibility. And the willingness to care about what - and who - we choose to spotlight. We get to shape this field. Let’s not just make it technically excellent. Let’s make it truly welcoming and inclusive.
+We can all do better. And the ones doing it right? They prove it's possible. We don't need perfection. We just need intention. And visibility. And the willingness to care about what - and who - we choose to spotlight. We get to shape this field. Let's not just make it technically excellent. Let's make it truly welcoming and inclusive.

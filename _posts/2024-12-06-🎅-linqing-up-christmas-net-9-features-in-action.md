@@ -5,7 +5,7 @@ tags: dotnet-9 CsAdvent LINQ
 
 In November 2024, Microsoft released .NET 9 and C# 13. There are all sorts of gifts for .NET developers in this release. Today, I want to share one of my favorite ones – the LINQ updates! What better way to share news at this time of year but with a holiday theme – and especially as this post is a part of C# Advent!
 
-## Index: Ranking Santa’s Reindeer for the Big Night 🦌
+## Index: Ranking Santa's Reindeer for the Big Night 🦌
 
 The first method I want to point out is `Index`. It is a new method for `IEnumerable` collections and returns a tuple of `(int index, TSource item)`. Consider this block of code, which will output each reindeer and their position:
 
@@ -34,7 +34,7 @@ Rudolph is at position 9
 
 When you need to show positions of items within an IEnumerable, then Index is your go-to!
 
-## CountBy: Tallying Santa’s Toy Inventory 🎁?
+## CountBy: Tallying Santa's Toy Inventory 🎁?
 
 The next method I want to mention is `CountBy`. This allows you to easily aggregate by a group and get the counts for that group.
 
@@ -127,7 +127,7 @@ foreach (var (category, longestName) in longestToyNamesByCategory)
 }
 ```
 
-Notice that the seed is a `string` in this case. That’s because we’re working with `string`s instead of `int`s. The output looks like this:
+Notice that the seed is a `string` in this case. That's because we're working with `string`s instead of `int`s. The output looks like this:
 
 ```text
 Stuffed Animal: Teddy Bear
@@ -159,7 +159,7 @@ foreach (var (category, mostExpensive) in mostExpensiveToysByCategory)
 }
 ```
 
-Notice that the seed has both a `string` and a `decimal`. As for the accumulator function, we pass in both the accumulator as well as a toy object. If the toy’s price is greater than the current largest price, then replace the current accumulator with the new toy. Otherwise, that toy is still the largest. The key is the toy’s category – so we’ll get the most expensive toy object for each category.
+Notice that the seed has both a `string` and a `decimal`. As for the accumulator function, we pass in both the accumulator as well as a toy object. If the toy's price is greater than the current largest price, then replace the current accumulator with the new toy. Otherwise, that toy is still the largest. The key is the toy's category – so we'll get the most expensive toy object for each category.
 
 This is the output:
 
@@ -171,6 +171,6 @@ Puzzle: 3D Castle Puzzle ($20.00)
 
 ## Conclusion: Bringing Holiday Cheer to Your Codebase 🎄
 
-.NET 9’s new LINQ features, like `CountBy`, `AggregateBy`, and `Index`, are gifts that keep on giving for developers. Just as St. Nicholas carefully organizes his toys, sleigh, and reindeer to ensure a magical holiday, these features help you streamline your data queries and improve code readability.
+.NET 9's new LINQ features, like `CountBy`, `AggregateBy`, and `Index`, are gifts that keep on giving for developers. Just as St. Nicholas carefully organizes his toys, sleigh, and reindeer to ensure a magical holiday, these features help you streamline your data queries and improve code readability.
 
-Whether you’re tallying toys, weighing sleighs, or finding the most expensive gift, these tools empower you to solve real-world problems with elegance and efficiency. So, unwrap these LINQ features in your next project and make your code shine brighter than Rudolph’s nose! 🎅✨
+Whether you're tallying toys, weighing sleighs, or finding the most expensive gift, these tools empower you to solve real-world problems with elegance and efficiency. So, unwrap these LINQ features in your next project and make your code shine brighter than Rudolph's nose! 🎅✨
