@@ -9,6 +9,8 @@ One of the audience members was asking him about [Spring Academy](https://spring
 
 That got me thinking about the story I want to share, which is... why I create content that has a written component and a video component.
 
+While I don't do it as much here on my personal blog, you can see this in action on [the NimblePros YouTube channel](https://youtube.com/@nimblepros), [the NimblePros blog](https://blog.nimblepros.com), and in my courses on [NimblePros Academy](https://academy.nimblepros.com).
+
 If you prefer videos, you can see this one here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k1YhNgimMws?si=0OdM9-WeECRVEUXV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
