@@ -1,5 +1,6 @@
 ---
 title: "🎅 LINQing Up Christmas: .NET 9 Features in Action"
+url: "/2024/12/06/🎅-linqing-up-christmas-net-9-features-in-action"
 tags: dotnet-9 CsAdvent LINQ
 ---
 
