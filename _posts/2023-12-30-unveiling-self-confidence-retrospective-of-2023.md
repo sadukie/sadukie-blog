@@ -1,6 +1,6 @@
 ---
 title: Unveiling Self-Confidence - Retrospective of 2023
-tags: career community
+tags: careers community
 ---
 
 As we're getting ready to wind down this year and ring in 2024, I figured I'd reflect on this year's adventures.
