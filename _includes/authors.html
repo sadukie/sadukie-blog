@@ -9,7 +9,7 @@
         {% else %}
             {% assign domain = site.url | append: site.baseurl %}
         {% endif %}
-        <h2><a href="{{domain}}{{ author.url }}">{{ author.name }}</a></h2>
+        <a href="{{domain}}{{ author.url }}">{{ author.name }}</a>
       </li>
     {% endfor %}
   </ul>
