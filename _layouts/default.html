@@ -17,15 +17,7 @@
   </head>
 
   <body>
-    <header>
-      <div class="inner">
-        <a href="{{ '/' | absolute_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        </div>
-        {% include nav.html %}
-    </header>
+    {% include site-header.html %}
 
     <div id="content-wrapper">
       <div class="inner clearfix">

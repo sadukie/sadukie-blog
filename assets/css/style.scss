@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+header {
+    background-image: url("../images/stained-glass-sunflowers-field.jpeg");
+    background-position: 50% 50%;
+}
+
 nav {
     display: flex;
     align-items: center;
@@ -33,4 +38,29 @@ nav ul li {
 
 nav ul li a {
     color: darkslateblue;
+}
+
+.site-title {
+    background-color: lemonchiffon;
+    border-radius: 5px;
+    text-align: center;
+    width: auto;
+    padding: 10px;
+}
+
+.tagline {
+    background-color: lemonchiffon;
+    width: auto;
+    text-align: center;
+    font-weight: bold;
+    color: dodgerblue;
+    padding: 5px;
+}
+
+a h1 {
+    color: dodgerblue !important;
+}
+
+.post-title {
+    border-bottom: 1px solid black;
 }
