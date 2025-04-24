@@ -1,0 +1,36 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    outline: 1px solid lemonchiffon;
+    border-radius:  5px;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    flex-direction: row;;
+    background-color: lightblue;
+    font-weight: bold;
+    font-size: large;
+    border-radius:  5px;
+    list-style: none;
+    width: auto;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    vertical-align: middle;
+    outline: 1px solid DodgerBlue;
+}
+
+nav ul li a {
+    color: darkslateblue;
+}
