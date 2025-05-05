@@ -3,7 +3,7 @@ title: Stir Trek 2025 recap
 tags: conferences careers
 ---
 
-On May 2nd, I had the opportunity to attend [Stir Trek](https://stirtrek.com). While Dante kept telling me "I'm not supposed to be here today", I knew the universe had reasons for playing out like it did. So for that, I'm thankful!
+On May 2nd, I had the opportunity to attend [Stir Trek](https://stirtrek.com). While [Dante kept telling me "I'm not supposed to be here today"](/2025/05/01/not-supposed-to-be-here), I knew the universe had reasons for playing out like it did. So for that, I'm thankful!
 
 There was a lot of learning to be had, conversations to be had, and people to see. You know how that goes - not all the things got done. But what I wanted to get done managed to happen. So let's recap some of the event!
 
