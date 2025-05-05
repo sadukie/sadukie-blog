@@ -8,7 +8,7 @@ This is my set point. (based off of the idea of concept of the set point from _
 
 ## My Purpose
 
-Make this world a better place by using my God-given talents to better serve the good of mankind.
+Make this world a better place by using my talents to better serve the good of mankind.
 
 ## My Values
 
