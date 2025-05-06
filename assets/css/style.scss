@@ -64,3 +64,8 @@ a h1 {
 .post-title {
     border-bottom: 1px solid black;
 }
+
+summary {
+    list-style-position: outside;
+    display: list-item;
+}
