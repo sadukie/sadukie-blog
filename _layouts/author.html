@@ -6,4 +6,5 @@ layout: default
 {{ content }}
 
 {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+
 {% include posts.html posts=filtered_posts %}

@@ -1,6 +1,6 @@
-<h2>Posts</h2>
+<h2>Recent Posts</h2>
 <ul>
-    {% for post in include.posts %}
+    {% for post in include.posts limit:10 %}
         {% if page.url contains "http" %}
         {% assign domain = '' %}
         {% elsif page.url contains "mailto" %}
