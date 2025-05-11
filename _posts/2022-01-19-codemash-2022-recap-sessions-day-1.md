@@ -1,6 +1,6 @@
 ---
 title: "CodeMash 2022 Recap - Sessions Day 1"
-tags: comferences community
+tags: conferences community
 ---
 
 These are the sessions that I caught on the first day of sessions at CodeMash 2022.
