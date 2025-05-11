@@ -1,7 +1,7 @@
 ---
 title: "🎅 LINQing Up Christmas: .NET 9 Features in Action"
 permalink: "/2024/12/06/🎅-linqing-up-christmas-net-9-features-in-action"
-tags: dotnet-9 CsAdvent LINQ
+tags: dotnet-9 cs-advent LINQ
 ---
 
 In November 2024, Microsoft released .NET 9 and C# 13. There are all sorts of gifts for .NET developers in this release. Today, I want to share one of my favorite ones – the LINQ updates! What better way to share news at this time of year but with a holiday theme – and especially as this post is a part of C# Advent!
