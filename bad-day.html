@@ -1,26 +1,28 @@
 <html>
-<head>
-<style>
-h1 span:nth-child(2n){
-font-family: "Comic Sans MS";
-}
-h1 span:nth-child(2n+1){
-font-family: "Papyrus";
-}
-</style>
-<script>
-function convertText(){
-   var textToStylize = document.getElementById("textToStylize").value;   
-   var tagToUpdate = document.getElementsByTagName("h1")[0];
-   tagToUpdate.innerHTML = textToStylize.replace(/[a-zA-Z]/g,"<span>$&</span>").replaceAll("\n","<br />");    
-}
-</script>
-<head>
-<body>
-<h1>Nothing to see here</h1>
-<hr />
-<p>Enter text to stylize...</p>
-<textarea id="textToStylize" rows="4" cols="120"></textarea><br />
-<button type="button" onclick="convertText();">Stylize</button>
-</body>
+    <head>
+        <style>
+            h1 span:nth-child(2n){
+                font-family: "Comic Sans MS";
+            }
+            h1 span:nth-child(2n+1){
+                font-family: "Papyrus";
+            }
+        </style>
+        <script>
+            function convertText(){
+                var textToStylize = document.getElementById("textToStylize").value;   
+                var tagToUpdate = document.getElementsByTagName("h1")[0];
+                tagToUpdate.innerHTML = textToStylize.replace(/[a-zA-Z]/g,"<span>$&</span>").replaceAll("\n","<br />");    
+            }
+        </script>
+    <head>
+    <body>
+        <h1>So you've had a bad day...</h1>
+        <hr />        
+        <form>
+            <label for="textToStylize">Enter text to stylize...</label>
+            <textarea id="textToStylize" rows="4" cols="120"></textarea><br />
+            <button type="button" onclick="convertText();">Stylize</button>
+        </form>
+    </body>
 </html>
