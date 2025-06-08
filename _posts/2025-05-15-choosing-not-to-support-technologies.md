@@ -1,3 +1,7 @@
+---
+title: Choosing Not to Support Technologies
+tags:  careers
+---
 Today's post is about choosing not to support technologies. There is no rule out there that says "Once you have used a technology, you must continue support it for (the org you moved on from/people who are using it similar to how you used it/others)."
 
 This morning, I had a quote that got me thinking...
