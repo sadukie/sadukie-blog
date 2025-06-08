@@ -51,3 +51,7 @@ So, to my former apprentice and to anyone else who has ever felt the need to apo
 Embrace the results, analyze the data, and celebrate the learning. Every experiment, regardless of its immediate outcome, contributes to knowledge. It pushes boundaries, refines understanding, and paves the way for true innovation.
 
 The only real "failure" in an experiment is *not learning* from it. So, let's reframe our thinking. Instead of apologizing for a "failed" experiment, let's celebrate the brave individuals who dare to try, who embrace uncertainty, and who bring back invaluable insights, no matter what the outcome.
+
+## Bonus: Teaching Kids about Experiments
+
+This one is for the parents of little ones out there - especially in the K-2nd grade range. [Pirate, Viking & Scientist by Jared Chapman](https://www.goodreads.com/book/show/20980668-pirate-viking-scientist) was my favorite kids' book that contains the word "hypothesis" for those at a young age. New vocabulary, new concepts... and a fun, relatable storyline! [Watch the Read Aloud version of Pirate, Viking and Scientist from Story Shark!](https://www.youtube.com/watch?v=lMIM-5jQq9k)
