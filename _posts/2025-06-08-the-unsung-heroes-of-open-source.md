@@ -27,7 +27,7 @@ These are not small tasks; they represent a continuous dedication that extends f
 
 A simple "thank you" can go a long way. Maintainers who actively acknowledge and appreciate contributions from their community build stronger, more engaged, and more loyal followings. When a pull request is silently merged, or an issue is closed without a word, it can feel dismissive to the contributor who invested their time and effort.
 
-I've been lucky to be working with Ardalis and assisting on some of his OSS projects. The crew he has shows gratitude for their contributors. Working with this team enables me to continue sharing the gratitude, as we did that in our [Clean Architecture for .NET 9 video](https://www.youtube.com/live/JfASQBcvbms?si=4ZOv-FV45sEUJmFj).
+I've been lucky to be working with [Ardalis](https://github.com/ardalis) and assisting on some of his OSS projects. The crew he has shows gratitude for their contributors. Working with this team enables me to continue sharing the gratitude, as we did that in our [Clean Architecture for .NET 9 video](https://www.youtube.com/live/JfASQBcvbms?si=4ZOv-FV45sEUJmFj).
 
 Conversely, maintainers who publicly celebrate contributions, engage in meaningful discussions, and express genuine gratitude foster a sense of belonging and value among their community members. This positive reinforcement is a powerful motivator, encouraging continued participation and transforming casual users into dedicated advocates. Building a reciprocal relationship with the community is key to long-term success.
 
