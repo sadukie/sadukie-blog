@@ -1,5 +1,5 @@
 ---
-title: "The Weight of the Community Work"
+title: "The Weight of Community Work"
 tags: careers community
 ---
 
