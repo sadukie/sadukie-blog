@@ -86,9 +86,9 @@ By default, Open WebUI + Ollama does not have any bundles installed. So you'll n
 5. Select the **Models** section.
 6. On the **Models** page, to the right of the heading, select the download icon for **Manage Models**.
 7. In the **Manage Models** dialog, in the section under **Pull a model from Ollama.com**, enter a model tag. For example, you may want a small model like `mistral-small`. Put the model tag in the text, then click the download button to the right of it.
-    ![Manage models](../assets/images/running-openwebui-and-ollama-in-portainer/manage-models.png)
+    ![Manage models]({{ site.baseurl }}/assets/images/running-openwebui-and-ollama-in-portainer/manage-models.png)
 8. Once you have a model installed, then you can select a model and prompt it for answers.
-    ![New chat in Open WebUI with mistral-small selected for the model.](../assets/images/running-openwebui-and-ollama-in-portainer/select-a-model.png)
+    ![New chat in Open WebUI with mistral-small selected for the model.]({{ site.baseurl }}/assets/images/running-openwebui-and-ollama-in-portainer/select-a-model.png)
 
 ## Conclusion
 
