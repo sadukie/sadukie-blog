@@ -1,5 +1,5 @@
 ---
-title: "Runing OpenWebUI + Ollama in Portainer"
+title: "Running Open WebUI + Ollama in Portainer"
 tags: containers ai
 ---
 
