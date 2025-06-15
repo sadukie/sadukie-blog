@@ -1,5 +1,6 @@
 ---
 title: "Running Open WebUI + Ollama in Portainer"
+description: "Learn how to run Open WebUI with Ollama in Portainer."
 tags: containers ai
 ---
 

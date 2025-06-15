@@ -1,5 +1,6 @@
 ---
 title: Why Engineers Need More Than One Road
+description: "Discover why engineers should diversify their skills in today's economy. Learn about the T-shaped developer concept and the benefits of embracing a generalist mindset."
 tags: careers community
 ---
 

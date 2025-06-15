@@ -1,5 +1,6 @@
 ---
 title: Stir Trek 2025 recap
+description: "From front-end technologies to .NET-related topics, these are some of the things Sadukie shares from Stir Trek 2025!"
 tags: conferences careers
 ---
 

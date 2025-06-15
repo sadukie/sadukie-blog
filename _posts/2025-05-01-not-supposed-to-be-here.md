@@ -1,5 +1,6 @@
 ---
 title: Not Supposed to be Here Today
+description: "Discover the unexpected twists in my community leadership journey. From stepping down from one conference due to future conflicts, to taking on new roles and ultimately realizing they weren't the right fit, here's how I ended up attending the first conference!"
 tags: conferences
 ---
 

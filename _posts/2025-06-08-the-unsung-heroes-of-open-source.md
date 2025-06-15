@@ -1,5 +1,6 @@
 ---
 title: "The Unsung Heroes of Open Source: Why Transparency, Gratitude, and Sustainable Support Matter"
+description: "Discover why transparency, gratitude, and sustainable support are crucial for maintaining open source projects. Learn about the hidden costs and how a little appreciation can go a long way."
 tags: careers open-source community
 ---
 

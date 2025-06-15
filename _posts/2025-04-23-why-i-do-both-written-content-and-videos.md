@@ -1,5 +1,6 @@
 ---
 title: Why I Do Both Written Content and Videos
+description: "Learn why I create both video and written content. You might be surprised as to why!"
 tags: community training content-creation
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Choosing Not to Support Technologies
+description: "Learn when and why it's okay to choose not to support certain technologies in your career. Discover how to handle past experiences with unwanted tech on your resume."
 tags:  careers
 ---
 Today's post is about choosing not to support technologies. There is no rule out there that says "Once you have used a technology, you must continue support it for (the org you moved on from/people who are using it similar to how you used it/others)."

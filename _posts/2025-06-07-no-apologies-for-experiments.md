@@ -1,5 +1,6 @@
 ---
 title: No Apologies for Experiments
+description: "Learn why you shouldn't apologize when experiments fail. Discover how failure is a natural part of experimentation and how learning from it can drive progress."
 tags: careers
 ---
 

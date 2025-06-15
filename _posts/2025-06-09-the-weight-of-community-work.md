@@ -1,5 +1,6 @@
 ---
 title: "The Weight of Community Work"
+description: "Explore the challenges of community leadership and burnout. Learn how dedication can turn into dread, why stepping down feels like failure, and the importance of passing the torch."
 tags: careers community
 ---
 
