@@ -22,8 +22,8 @@ These are some questions I get - and I also cover these in my [YouTube channel w
 There are two takes on this:
 </p>
 <ul>
-  <li>Sadukie has bseen working in technology close to 30 years - as a tech support specialst, desktop support specialist, system administrator, database administrato, web server administrator, reports developer, database developer, web developer, software architect, and tech trainer. She has a wealth of experience in a variety of techs. She enjoys geeking out with her people.</li>
-  <li>She's married to a geek! He's the hadware/networking/3D printing to her software development. He's the reason why she learned HTML back in the late 90s.</li> 
+  <li>Sadukie has been working in technology close to 30 years - as a tech support specialst, desktop support specialist, system administrator, database administrato, web server administrator, reports developer, database developer, web developer, software architect, and tech trainer. She has a wealth of experience in a variety of techs. She enjoys geeking out with her people.</li>
+  <li>She's married to a geek! He's the hardware/networking/3D printing to her software development. He's the reason why she learned HTML back in the late 90s.</li> 
 </ul>
 </details>
 
