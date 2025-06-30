@@ -20,6 +20,9 @@ Then, they need the current password. That's a lot of characters to type. I'm on
 
 Then, I have to hope I typed it correctly. There's no Password Reveal Button for me to double check that.
 
+This is a Password Reveal Button:
+![Password input with an eye icon at the far right. The eye allows the user to reveal the password in the box.](./password-reveal-button.png)
+
 Now, I need to make sure that I come up with a new password and type it correctly twice. Again, no Password Reveal Buttons.
 
 There's a lot of hoping and praying as I go through this process. Because if I have a typo and have to type it all out again, there will be more frustration and more thinking of whether I really want to keep my accounts there.
