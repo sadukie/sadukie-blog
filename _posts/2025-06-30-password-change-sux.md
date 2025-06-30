@@ -21,7 +21,8 @@ Then, they need the current password. That's a lot of characters to type. I'm on
 Then, I have to hope I typed it correctly. There's no Password Reveal Button for me to double check that.
 
 This is a Password Reveal Button:
-![Password input with an eye icon at the far right. The eye allows the user to reveal the password in the box.](./password-reveal-button.png)
+
+![Password input with an eye icon at the far right. The eye allows the user to reveal the password in the box.](/assets/images/password-reset-experience/password-reveal-button.png)
 
 Now, I need to make sure that I come up with a new password and type it correctly twice. Again, no Password Reveal Buttons.
 
@@ -48,7 +49,7 @@ Fine, I'll password reset this. 🔥
 
 Listen, I know the purpose of CAPTCHAs. I know that accessibilty is hard. But I am not awake enough to deal with this "drunken letter" CAPTCHA:
 
-!["Get back into your account" screen with a textbox for the "email or username" as well as an awful captcha that has an audio option and a refresh option. The letters look like they were rendered by a drunken AI generator.](./drunken-ai-captcha.png)
+!["Get back into your account" screen with a textbox for the "email or username" as well as an awful captcha that has an audio option and a refresh option. The letters look like they were rendered by a drunken AI generator.](/assets/images/password-reset-experience/drunken-ai-captcha.png)
 
 ## Why the Drunken Letters CAPTCHA Sucks
 
