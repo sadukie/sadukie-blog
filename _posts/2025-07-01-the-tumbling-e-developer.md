@@ -37,7 +37,7 @@ What does that look like for me?
 
 Thinking of where I am in my career, I've already run out of legs on my tumbling E. The thing is, I've been here full-time 23 years plus about 2.5 years of part-time or student work all in tech.
 
-When you look at my conference talks over the past 15+ years, you probably see topics related to this E:
+When you look at my conference talks over the past 15+ years, you probably see topics related to this extended tumbling E:
 
 ![Extended Tumbling facing downwards with labels of "scripting", "auth(N/Z)", "user experience", "data scaling", "mentoring", "conference session review", and "tech event organizing".](/assets/images/tumbling-e-developer/extended-e.png)
 
