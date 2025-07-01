@@ -2,6 +2,7 @@
 title: "The Tumbling E Developer - Or a Grown Up T-Shaped Developer"
 description: "What happens when a T-shaped developer's career carries on? They become a Tumbling E Developer! Read on!"
 tags: careers
+featuredImage: /assets/images/tumbling-e-developer/tumbling-e-oops.png
 ---
 
 I'm in a Discord with a lot of friends that I've known for almost 20 years now. We're techies of all sorts. Some are job hunting, so we're talking about our careers, what we've done, and where we want to go.
