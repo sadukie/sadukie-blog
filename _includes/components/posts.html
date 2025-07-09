@@ -1,5 +1,5 @@
 <h2>Recent Posts</h2>
-<section id="recentPosts" style="flex-direction: row; flex-wrap: wrap; display: flex;">
+<section id="recentPosts" class="postContainer">
     {% for post in include.posts limit:10 %}
     {% if page.url contains "http" %}
         {% assign domain = '' %}
@@ -8,9 +8,12 @@
         {% else %}
             {% assign domain = site.url | append: site.baseurl %}
         {% endif %}
-        <div style="border: 1px DodgerBlue; padding: 10px; width:300px;">    
+        <div class="card">    
             <a href="{{domain}}{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})<br />
-            <img src="{{site.url}}{{post.featuredImage }}" alt="" />
+            {% if post.featuredImage %}
+                <img src="{{site.url}}{{post.featuredImage }}" alt="" />
+            {% endif %}
+
         </div>
     {% endfor %}
     </section>

@@ -1,5 +1,5 @@
 ---
-title: "Code<ash 2022 Recap - Sessions Day 2"
+title: "CodeMash 2022 Recap - Sessions Day 2"
 tags: conferences community
 ---
 

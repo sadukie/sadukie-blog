@@ -1,5 +1,6 @@
 ---
 title: My Set Point
+layout: default
 ---
 
 This is my set point. (based off of the idea of concept of the set point from _The Way of the SEAL_ by Mark Divine)

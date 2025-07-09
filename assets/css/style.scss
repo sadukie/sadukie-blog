@@ -1,12 +1,50 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+:where(h1, h2, h3, h4, h5, h6, nav a) {
+    font-family: "Pacifico", cursive;
+}
 
 header {
-    background-image: url("../images/stained-glass-sunflowers-field.jpeg");
-    background-position: 50% 50%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background: #2e7bcf url(../images/stained-glass-sunflowers-field.jpeg) 50% 50% no-repeat;
+    border-bottom: solid 1px #275da1;
+    width: auto;
 }
+
+header h1 {
+    width: 540px;
+    margin-top: 0;
+    margin-bottom: 0.2em;
+    font-size: 72px;
+    font-weight: normal;
+    line-height: 1;
+    color: #fff;
+    letter-spacing: -1px
+}
+
+header h2 {
+    width: 540px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 26px;
+    font-weight: normal;
+    line-height: 1.3;
+    color: #9ddcff;
+    letter-spacing: 0
+}
+
+aside#sidebar {
+    float: right;
+    width: 200px;
+    min-height: 504px;
+    padding-left: 20px;
+    font-size: 12px;
+    line-height: 1.3;
+    background: transparent 0 0 no-repeat
+}
+
 
 nav {
     display: flex;
@@ -40,21 +78,19 @@ nav ul li a {
     color: darkslateblue;
 }
 
-.site-title {
-    background-color: lemonchiffon;
-    border-radius: 5px;
-    text-align: center;
-    width: auto;
-    padding: 10px;
-}
-
-.tagline {
+:where(.site-title, .tagline) {
+    display: block !important;
     background-color: lemonchiffon;
     width: auto;
     text-align: center;
     font-weight: bold;
-    color: dodgerblue;
+    color: dodgerblue !important;
     padding: 5px;
+    width: auto !important;
+}
+
+.site-title {
+    font-size: 32px !important;
 }
 
 a h1 {
@@ -65,7 +101,62 @@ a h1 {
     border-bottom: 1px solid black;
 }
 
-summary {
+:where(summary) {
     list-style-position: outside;
     display: list-item;
+}
+
+.card {
+    border: 1px lemonchiffon outset;
+    outline: dodgerblue 4px inset;
+    padding: 10px; 
+    width:300px;
+    margin: 10px;
+}
+
+.postContainer {
+    flex-direction: row; 
+    flex-wrap: wrap; 
+    display: flex;
+}
+
+.search {
+    display: block;
+    height: 30px !important;
+}
+
+#search-input {
+    padding: 10px;
+    width: 100%;
+    border: 2px dodgerblue solid;
+}
+
+:where(input[type="search"]) {
+    -webkit-appearance: textfield;
+    box-sizing: content-box;
+    height: 100px;
+}
+
+.main-content hr {
+    line-height: 5px;
+}
+
+.inner {
+    position: relative;
+    width: 940px;
+    margin: 0 auto
+}
+
+#content-wrapper {
+    padding-top: 30px;
+    border-top: solid 1px #fff
+}
+
+#main-content {
+    float: left;
+    width: 690px
+}
+
+#main-content img {
+    max-width: 100%
 }
