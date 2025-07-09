@@ -1,7 +1,7 @@
 ---
 ---
 
-:where(h1, h2, h3, h4, h5, h6, nav a) {
+:where(h1, h2, h3, h4, h5, h6, nav > ul > li > a) {
     font-family: "Pacifico", cursive;
 }
 
@@ -16,7 +16,6 @@ header {
 header h1 {
     width: 540px;
     margin-top: 0;
-    margin-bottom: 0.2em;
     font-size: 72px;
     font-weight: normal;
     line-height: 1;
