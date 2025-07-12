@@ -6,7 +6,7 @@ tags: careers family
 
 July is a busy month for me - from birthdays and anniversaries to prepping for my family reunion. I come from a very large family, and we all get together once a year to see each other. There are hot dogs, horseshoes, the business meeting, egg toss, kids' games, crafting contests, and BINGO!
 
-We recently found out that our BINGO caller crew won't be able to make it. Today, my boss asked if I had tried coding with Copilot - which I had in a Microsoft Learn path but not locally.
+We recently found out that our BINGO caller crew won't be able to make it. Today, [Ardalis](https://ardalis.com) asked if I had tried coding with Copilot - which I had in a Microsoft Learn path but not locally.
 
 So this evening, I installed the GitHub Copilot extension in my VS Code and started to code using GPT 4.0.
 
