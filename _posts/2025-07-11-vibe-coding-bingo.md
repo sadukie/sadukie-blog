@@ -54,7 +54,7 @@ For the Traditional caller mode, I fed it a URL with the traditional calls, and 
 
 This is the VibeBingo console app in action:
 
-<video src="/assets/videos/vibe-coding-bingo/VibeBingo-console-app.mp4" controls></video>
+<video src="/assets/videos/vibe-coding-bingo/VibeBingo-console-app.mp4" controls style="height:300px;"></video>
 
 You can see the code for this in my [vibe-bingo repo](https://github.com/sadukie/vibe-bingo).
 
