@@ -2,7 +2,7 @@
 title: "The Weight of Community Work"
 description: "Explore the challenges of community leadership and burnout. Learn how dedication can turn into dread, why stepping down feels like failure, and the importance of passing the torch."
 tags: careers community
-featuredImage: /assets/weight-of-community/weight-of-the-world.png
+featuredImage: /assets/images/weight-of-community/weight-of-the-world.png
 ---
 
 For over 15 years, many of us have poured our hearts and countless hours into building and nurturing this community. We've watched it grow, celebrated its successes, and weathered its storms. It's been a labor of love, a testament to the power of collective spirit. But lately, that love has started to feel like a heavy burden, and frankly, some of the long-time organizers are getting tired.
