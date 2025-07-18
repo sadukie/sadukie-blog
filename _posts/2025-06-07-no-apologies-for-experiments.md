@@ -2,6 +2,7 @@
 title: No Apologies for Experiments
 description: "Learn why you shouldn't apologize when experiments fail. Discover how failure is a natural part of experimentation and how learning from it can drive progress."
 tags: careers
+featuredImage: /assets/images/no-apologies-for-experiments/for-science.png
 ---
 
 Recently, a former apprentice of mine reached out with an apology. They'd joined a new team, embarked on an experiment, and the results weren't what they'd hoped for. "I'm so sorry it failed," they said. My immediate thought was, "Why are you apologizing?" And that got me thinking about the true nature of experiments and why we often misunderstand their purpose.
