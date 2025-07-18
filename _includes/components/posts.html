@@ -9,7 +9,7 @@
             {% assign domain = site.url | append: site.baseurl %}
         {% endif %}
         <div class="card">    
-            <a href="{{domain}}{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})<br />
+            <a href="{{domain}}{{ post.url }}">{{ post.title }}</a><br />({{ post.date | date: "%Y-%m-%d" }})<br />
             {% if post.featuredImage %}
                 <img src="{{site.url}}{{post.featuredImage }}" alt="" />
             {% endif %}
