@@ -1,7 +1,7 @@
 ---
 title: A Week of Mondays
 tags: life
-featuredImage: /assets/images/a-week-of-mondays/disheartened-world.png
+featuredImage: /assets/images/a-week-of-mondays/dumpster-fire.png
 ---
 
 This has been a week of Mondays.

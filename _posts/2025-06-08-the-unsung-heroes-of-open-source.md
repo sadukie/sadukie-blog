@@ -2,6 +2,7 @@
 title: "The Unsung Heroes of Open Source: Why Transparency, Gratitude, and Sustainable Support Matter"
 description: "Discover why transparency, gratitude, and sustainable support are crucial for maintaining open source projects. Learn about the hidden costs and how a little appreciation can go a long way."
 tags: careers open-source community
+featuredImage: /assets/images/unsung-heroes/superhero-campfire.png
 ---
 
 Behind every successful open-source project are dedicated maintainers who pour their time, expertise, and passion into building and sustaining these vital tools. Yet, the realities of open-source maintenance are often misunderstood, leading to friction and unrealistic expectations within the community. It's time to shine a light on what truly makes open-source thrive: **transparency**, **genuine gratitude**, and a **sustainable model** that recognizes the immense effort involved.
