@@ -2,6 +2,7 @@
 title: "Running Open WebUI + Ollama in Portainer"
 description: "Learn how to run Open WebUI with Ollama in Portainer."
 tags: containers ai
+featuredImage: /assets/images/running-openwebui-and-ollama-in-portainer/llama-container.png
 ---
 
 Recently, my husband decided to explore running [Portainer](https://portainer.io) to learn about containers. Since we're both on container adventures at the moment, we're both working with containers on Portainer.

@@ -2,6 +2,7 @@
 title: "Vibe Coding a BINGO Caller"
 description: "What happens when the BINGO caller can't make it to the family reunion? We vibe code one!"
 tags: careers family
+featuredImage: /assets/images/vibe-coding-bingo/bingo-ladies.png
 ---
 
 July is a busy month for me - from birthdays and anniversaries to prepping for my family reunion. I come from a very large family, and we all get together once a year to see each other. There are hot dogs, horseshoes, the business meeting, egg toss, kids' games, crafting contests, and BINGO!

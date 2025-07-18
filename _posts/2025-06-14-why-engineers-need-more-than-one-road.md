@@ -2,6 +2,7 @@
 title: Why Engineers Need More Than One Road
 description: "Discover why engineers should diversify their skills in today's economy. Learn about the T-shaped developer concept and the benefits of embracing a generalist mindset."
 tags: careers community
+featuredImage: /assets/images/engineering-paths/winding-road-in-forest.png
 ---
 
 Let's be honest, the phrase "stay in your lane" has been tossed around a *lot* lately. It's often offered as advice, a comforting little nugget of wisdom suggesting you focus on your specific expertise and leave the rest to others. But in this economy, clinging to that advice might be one of the most dangerous things you can do.

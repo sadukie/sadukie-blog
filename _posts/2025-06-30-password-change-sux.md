@@ -2,6 +2,7 @@
 title: "M365 Password Update Experience SUX"
 description: "How can we do better password update experiences? Read on!"
 tags: ux sux
+featuredImage: /assets/images/password-reset-experience/blurred-laptop.png
 ---
 
 Oh look... another Sadukie on User eXperience (SUX) post, and big surprise it's about Microsoft. 😩
