@@ -11,7 +11,7 @@
         <div class="card">    
             <a href="{{domain}}{{ post.url }}">{{ post.title }}</a><br />({{ post.date | date: "%Y-%m-%d" }})<br />
             {% if post.featuredImage %}
-                <img src="{{site.url}}{{post.featuredImage }}" alt="" />
+                <a href="{{domain}}{{ post.url }}"><img src="{{site.url}}{{post.featuredImage }}" alt="" /></a>
             {% endif %}
 
         </div>
