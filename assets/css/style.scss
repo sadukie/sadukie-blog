@@ -8,7 +8,10 @@
 header {
     padding-top: 40px;
     padding-bottom: 40px;
-    background: #2e7bcf url(../images/stained-glass-sunflowers-field.jpeg) 50% 50% no-repeat;
+    background-color: #2e7bcf;
+    background-image: url(/assets/images/stained-glass-sunflowers-field-cropped.jpeg);    
+    background-size: cover;
+    background-origin: border-box;
     border-bottom: solid 1px #275da1;
     width: auto;
 }
@@ -44,6 +47,11 @@ aside#sidebar {
     background: transparent 0 0 no-repeat
 }
 
+@media screen and (max-width: 925px) {
+  aside#sidebar {
+    float: none;
+  }
+}
 
 nav {
     display: flex;
@@ -114,9 +122,21 @@ a h1 {
 }
 
 .postContainer {
-    flex-direction: row; 
-    flex-wrap: wrap; 
     display: flex;
+    flex-direction: row; 
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+@media screen and (max-width: 500px) {
+  .postContainer {
+    flex-direction: column;
+  }
+}
+
+p {
+    word-break: keep-all;
+    white-space: normal;
 }
 
 .search {
@@ -146,11 +166,6 @@ a h1 {
     margin: 0 auto
 }
 
-#content-wrapper {
-    padding-top: 30px;
-    border-top: solid 1px #fff
-}
-
 #main-content {
     float: left;
     width: 690px
@@ -158,4 +173,13 @@ a h1 {
 
 #main-content img {
     max-width: 100%
+}
+
+#content-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 30px;
+    padding-left: 30px;
+    border-top: solid 1px #fff
 }
