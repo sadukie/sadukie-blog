@@ -51,6 +51,12 @@ aside#sidebar {
   aside#sidebar {
     float: none;
   }
+
+  #main-content {
+    float: none;
+    width: 100% !important;
+    padding-right: 10px;
+  } 
 }
 
 nav {
