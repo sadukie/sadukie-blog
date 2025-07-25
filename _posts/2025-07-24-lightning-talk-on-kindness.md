@@ -1,5 +1,6 @@
 ---
 title: The Lightning Talk on Kindess
+featuredImage: /assets/images/lightning-talk-on-kindness/bee-kind.png
 ---
 
 We do internal trainings at work, and sometimes we do lightning talks. ⚡ These are 6-minute long talks on anything. They don't have to have slides or even visuals. Today, my teammates did some awesome tech lightning talks!
