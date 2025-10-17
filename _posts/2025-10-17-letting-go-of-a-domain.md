@@ -1,7 +1,7 @@
 ---
 title: "Letting Go of a Domain"
 author: sadukie
-date: "2025-10-17T21:13:50.000Z"
+date: "2025-10-17T08:13:50.000Z"
 description: "Because friends keep reaching out, be aware that Coding Geekette is gone."
 tags: careers
 featuredImage: /assets/images/a-week-of-mondays/dumpster-fire.png
