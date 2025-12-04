@@ -2,6 +2,7 @@ baseurl: ""
 title: The Adventures of Sadukie
 description: "100% me, unapologetically"
 remote_theme: just-the-docs/just-the-docs
+future: false
 search_enabled: true
 search:
   heading_level: 3
