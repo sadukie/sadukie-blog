@@ -4,7 +4,7 @@ author: sadukie
 date: "2025-10-17T08:13:50.000Z"
 description: "Because friends keep reaching out, be aware that Coding Geekette is gone."
 tags: careers
-featuredImage: /assets/images/a-week-of-mondays/dumpster-fire.png
+featuredImage: /assets/images/letting-go-of-a-domain/coding-geekette-script-logo.png
 ---
 
 Long ago, I owned a domain about being a coding geekette. However, the branding with the name just never did stick for me as much as Sadukie does. So I let that domain lapse. I've had a few friends reach out to see if I had let it lapse, so I figured I better make this post.
