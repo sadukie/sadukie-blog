@@ -1,5 +1,5 @@
 ---
-title: The Lightning Talk on Kindess
+title: The Lightning Talk on Kindness
 featuredImage: /assets/images/lightning-talk-on-kindness/bee-kind.png
 ---
 
