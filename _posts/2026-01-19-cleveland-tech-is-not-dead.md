@@ -42,7 +42,7 @@ And the user groups aren't just the only things going on - there are still commu
 - [Cleveland Global Game Jam](https://www.eventbrite.com/e/cleveland-game-developers-global-game-jam-2026-tickets-1978161541421)
 - [Cleveland GiveCamp](https://clevelandgivecamp.org/)
 - [Ingenuity Cleveland](https://www.ingenuitycleveland.org/)
-- EmpowerED Maker Challenge - a maker hackathon held at St. Ed's high school in collaboration with [Youth Challenge](https://www.youthchallengesports.com/)
+- EmpowerED Maker Challenge - a maker hackathon held at St. Ed's High School in collaboration with [Youth Challenge](https://www.youthchallengesports.com/)
 
 ## Why did you stop doing Cleveland Tech Events?
 
