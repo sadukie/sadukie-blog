@@ -30,7 +30,7 @@ Some of these groups meet in-person. Some of these may be virtual only. However,
 
 And from some other groups....
 
-- [Google Developer Group Cleveland](https://www.meetup.com/google-developer-group-cleveland/) - These guys are dealing with life things but not completely dead. I do chat with them.
+- [Google Developer Group Cleveland](https://www.meetup.com/google-developer-group-cleveland/) - These guys are dealing with life things but not completely dead. I do chat with them and know they want to bring this back.
 - CleRb (Cleveland Ruby) - [Josh Schramm was trying to get this back up and running.](https://www.linkedin.com/posts/joshschramm_cleveland-ruby-brigade-cleveland-oh-activity-7039665988933443584-g2SF/) So if anyone is interested in Ruby, he's the one to reach out to!
 
 ## But wait... there's more! Events!
