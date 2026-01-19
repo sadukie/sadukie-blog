@@ -13,6 +13,7 @@ While I was at CodeMash 2026, I had someone come up to me and tell me that the C
 
 Some of these groups meet in-person. Some of these may be virtual only. However, these groups still exist and have meetups going on!
 
+- [AI Woodstock CLE](https://www.meetup.com/ai-woodstock-cle/)
 - [Akron Game Developers](https://www.meetup.com/akron-game-developers/) - Not just Cleveland, but Northeast Ohio!
 - [Akron Makerspace](https://akronmakerspace.org/)
 - [Azure Cleveland](https://www.meetup.com/azure-cleveland-meetup/)
