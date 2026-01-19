@@ -22,6 +22,8 @@ Some of these groups meet in-person. Some of these may be virtual only. However,
 - [Cleveland CocoaHeads](https://www.meetup.com/cleveland-cocoaheads/)
 - [Cleveland Game Devs](https://www.meetup.com/clevelandgamedev/)
 - [Cleveland Python User Group](https://www.meetup.com/cleveland-area-python-interest-group/)
+- [Cleveland Salesforce Developer Group](https://trailblazercommunitygroups.com/salesforce-developer-group-cleveland-united-states/)
+- [CWRU Girls Who Code](https://www.cwrugirlswhocode.com/)
 - [ISC2 Cleveland](https://www.isc2chapter-cleveland.us/)
 - [Open Cleveland](https://www.meetup.com/open-cleveland/)
 - [ProductTank Cleveland](https://www.meetup.com/cleveland-product-meetup/)
