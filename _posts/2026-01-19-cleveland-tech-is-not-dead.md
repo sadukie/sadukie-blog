@@ -27,6 +27,7 @@ Some of these groups meet in-person. Some of these may be virtual only. However,
 - [Cleveland Salesforce Developer Group](https://trailblazercommunitygroups.com/salesforce-developer-group-cleveland-united-states/)
 - [CWRU Girls Who Code](https://www.cwrugirlswhocode.com/)
 - [ISC2 Cleveland](https://www.isc2chapter-cleveland.us/)
+- [Ohio North Data Training](https://www.meetup.com/ohio-north-database-training/)
 - [Open Cleveland](https://www.meetup.com/open-cleveland/)
 - [ProductTank Cleveland](https://www.meetup.com/cleveland-product-meetup/)
 - [The Ingeneers - Cleveland's Creative Collaborative](https://www.meetup.com/the-ingeneers-ingenuity-clevelands-creative-collaborative/)
