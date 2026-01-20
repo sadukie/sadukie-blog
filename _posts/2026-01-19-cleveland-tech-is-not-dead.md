@@ -19,19 +19,31 @@ Some of these groups meet in-person. Some of these may be virtual only. However,
 - [Akron Makerspace](https://akronmakerspace.org/)
 - [Azure Cleveland](https://www.meetup.com/azure-cleveland-meetup/)
 - [Beyond Code](https://www.meetup.com/devopscle/) - formerly DevOpsCLE
+- [Chagrin Falls Tech Breakfast](https://www.meetup.com/chagrin-falls-tech-breakfast/)
 - [Cleveland AI & Data](https://www.meetup.com/cleveland-ai-data)
 - [Cleveland C# User Group](https://www.meetup.com/cleveland-cs/)
 - [Cleveland CocoaHeads](https://www.meetup.com/cleveland-cocoaheads/)
 - [Cleveland Game Devs](https://www.meetup.com/clevelandgamedev/)
+- [Cleveland PyLadies](https://www.meetup.com/cle-pyladies/)
 - [Cleveland Python User Group](https://www.meetup.com/cleveland-area-python-interest-group/)
 - [Cleveland Salesforce Developer Group](https://trailblazercommunitygroups.com/salesforce-developer-group-cleveland-united-states/)
 - [CWRU Girls Who Code](https://www.cwrugirlswhocode.com/)
+- [DesignExplorr Cleveland](https://designexplorr.com/events/category/public/)
+- [GetWITit Cleveland](https://getwitit.org/chapter/cleveland-chapter/)
 - [ISC2 Cleveland](https://www.isc2chapter-cleveland.us/)
+- [NE Ohio AI Meetup Group](https://www.meetup.com/the-ne-ohio-ai-meetup-group/)
+- [NEOWit - Northeast Ohio Women in Tech](https://www.meetup.com/neowit-northeast-ohio-women-in-technology/)
+- [Northern Ohio HIMSS](https://northernohio.himss.org/) - health innovation!
+- [OCWiC ACM-W Professional Chapter](https://ocwic.org/)
 - [Ohio North Data Training](https://www.meetup.com/ohio-north-database-training/)
 - [Open Cleveland](https://www.meetup.com/open-cleveland/)
+- [PMI Northeast Ohio Chapter](https://www.pmineo.org/)
 - [ProductTank Cleveland](https://www.meetup.com/cleveland-product-meetup/)
+- [Stark A11y](https://a11ysofstark.org/)
 - [The Ingeneers - Cleveland's Creative Collaborative](https://www.meetup.com/the-ingeneers-ingenuity-clevelands-creative-collaborative/)
+- [Together Digital Cleveland Chapter](https://www.togetherindigital.com/about/cleveland/)
 - [UX Akron](https://www.meetup.com/uxakron/)
+- [Women in Agile Cleveland](https://www.meetup.com/women-in-agile-cleveland/)
 
 And from some other groups....
 
@@ -47,6 +59,15 @@ And the user groups aren't just the only things going on - there are still commu
 - [Cleveland GiveCamp](https://clevelandgivecamp.org/)
 - [Ingenuity Cleveland](https://www.ingenuitycleveland.org/)
 - EmpowerED Maker Challenge - a maker hackathon held at St. Ed's High School in collaboration with [Youth Challenge](https://www.youthchallengesports.com/)
+
+## And there are more organizations supporting the community!
+
+These aren't necessarily user groups or events, but these are movers and shakers who help support the community and also put on events of their own:
+
+- [Greater Cleveland Partnership](https://greatercle.com/events)
+- [JumpStart](https://jumpstartinc.org/)
+- [LaunchHouse](https://www.meetup.com/launchhouse/)
+- [OhioX](https://www.ohiox.org/events)
 
 ## Why did you stop doing Cleveland Tech Events?
 
