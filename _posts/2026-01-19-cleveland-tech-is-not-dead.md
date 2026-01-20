@@ -40,6 +40,7 @@ And from some other groups....
 
 And the user groups aren't just the only things going on - there are still community events happening too!
 
+- [BSides CLE](https://bsidescle.com/wp/)
 - [Cleveland Global Game Jam](https://www.eventbrite.com/e/cleveland-game-developers-global-game-jam-2026-tickets-1978161541421)
 - [Cleveland GiveCamp](https://clevelandgivecamp.org/)
 - [Ingenuity Cleveland](https://www.ingenuitycleveland.org/)
