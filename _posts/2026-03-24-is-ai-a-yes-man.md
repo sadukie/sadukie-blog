@@ -4,7 +4,7 @@ author: sadukie
 date: "2026-03-24T08:13:50.000Z"
 description: "I do not work well with yes men. I like people who can think for themselves. So when AI realizes it is wrong and tells me I'm right, I'm less likely to want to use AI. This is an explanation from some of the LLMs."
 tags: ai
-featuredImage: /assets/images/goals-for-2026/goals.png
+featuredImage: /assets/images/categories/ai.png
 ---
 
 One of the types of people in the world that I don't get along with are "yes men". I don't like people who just say yes to everything. I like when people think for themselves. Responses like "oh yeah, right" or "you're right"  get me frustrated, especially when I'm not looking for a "yes" answer. Why am I wasting my time doing this research if I'm right (which I know I'm most likely not right anyhow)?

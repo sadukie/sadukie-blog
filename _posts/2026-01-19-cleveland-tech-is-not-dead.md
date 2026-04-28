@@ -3,8 +3,8 @@ title: "Cleveland Tech is not Dead!"
 author: sadukie
 date: "2026-01-19T08:13:50.000Z"
 description: "Someone at CodeMash told me that the Cleveland tech scene is dead. Oddly enough, it isn't."
-tags: careers
-featuredImage: /assets/images/goals-for-2026/goals.png
+tags: community
+featuredImage: /assets/images/categories/community.png
 ---
 
 While I was at CodeMash 2026, I had someone come up to me and tell me that the Cleveland tech community is dead. I knew that they were either not from around here or not connected to the right people. (And funny that they tell _me_ this? 🤔) So let's set some things straight.

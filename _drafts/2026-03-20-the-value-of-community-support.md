@@ -1,0 +1,16 @@
+---
+title: "The Value of Community Support"
+author: sadukie
+date: "2026-03-20T08:13:50.000Z"
+description: "Every time I've been able to thrive, it's been because of community support."
+tags: careers
+featuredImage: /assets/images/goals-for-2026/goals.png
+---
+
+Every time I've been able to thrive in life, it's because I've found the right community to support me. When I first got my autoimmune diagnoses, I managed to find [a Twitch streamer](https://www.twitch.tv/joelvsarthritis) who had a great community for patient-led discussions. I found others who have been paving the roads ahead of us, and I've found those newer to the diagnoses. It helped me feel like I belonged in the world and that there are others who are also figuring out how we survive, despite the odds against us. While I'm not in the UK, I can attest that [PSOR.org](https://www.psor.org/) is a wonderful community for those dealing with Psoriasis and Psoriatic Arthritis - be it patients or carers, there's a welcoming community to share their experiences and help you find support.
+
+Recently, I got another diagnosis, which was one I struggled even naming. Not me. Couldn't be. There is no representation of me that would help me make sense of this. I mean, I suspected this due to how I feel - not fitting in with others, feeling very much like an outsider. This diagnosis took a bit for me to be comfortable with. I've ben able to come to grips with it because I found an online community where there are others who also struggle and support each other. I'm not even a month past diagnosis, and I've made huge strides. I am understanding this one a lot more. I'm finding that - just like my career - the parts that I might be able to relate to are in a particularly male population. I found an online community that is full of others going through this, at various stages. Once I'm talking more, I promise you that I'll be the representation for the positive fighters out there. Because apparently my role in life is to be the representation that I don't have. Be the representation that would've helped me. ✨
+
+**What about this in tech careers?** I've looked out there to see who's out there. I found a community that I thought did this well. They do a great job of supporting each other with their developer and architect adventures - both professionally and side gig adventures. However, I saw that the diversity balance was heavily off. Shortly after, I would realize why. 💔
+
+Thankfully, I took a chance of going to an open spaces conference in a community I hadn't been in. I proposed a topic that got people interested, and in the process, I found my people. It turns out that there's an international group of support for people who meet through these adventures. To add to it, there are so many channels - from business-related to general life-related. I get to bring myself wholly. I get to be myself authentically. I get to learn from other industry experts. The diverse experiences we all bring to the community is fantastic - giving us the ability to share our experiences and challenge each other to grow in our awesomeness.
