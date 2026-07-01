@@ -3,7 +3,7 @@ title: "No Excuses for Manels"
 author: sadukie
 date: "2026-06-18T08:13:50.000Z"
 description: "Yet another career panel of all men?! There is no excuse for this. In this post, Sadukie links to groups for finding others in tech."
-tags: conferences, speaking
+tags: conferences speaking
 featuredImage: /assets/images/categories/community.png
 ---
 

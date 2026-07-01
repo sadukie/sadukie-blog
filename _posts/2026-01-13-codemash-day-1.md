@@ -3,7 +3,7 @@ title: "CodeMash 2026 - Day 1"
 author: sadukie
 date: "2026-01-13T08:13:50.000Z"
 description: "Sadukie checked out 2 PreCompilers on the 1st day of CodeMash 2026 - Mad Scientist Sharks v2.0 and Mob Programming! These are her adventures."
-tags: careers
+tags: careers conferences
 featuredImage: /assets/images/categories/community.png
 ---
 
