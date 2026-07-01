@@ -3,7 +3,7 @@ title: "The Plight of Women in Tech 20+ Years Later"
 author: sadukie
 date: "2026-07-01T08:13:50.000Z"
 description: "Why are women leaving tech? AI and tech bros. Let's face it - the culture is still toxic, 20+ years later."
-tags: community, culture, careers
+tags: community culture careers
 featuredImage: /assets/images/categories/community.png
 ---
 
