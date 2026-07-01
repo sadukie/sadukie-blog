@@ -3,7 +3,7 @@ title: "Haven't We Learned from Clark?"
 author: sadukie
 date: "2026-01-16T08:13:50.000Z"
 description: "CodeMash announced CodeMash East. Sadukie's first reaction was - Haven't we learned from Clark?! Clearly not! This post explains her reaction."
-tags: conferences, culture
+tags: conferences culture
 featuredImage: /assets/images/categories/community.png
 ---
 
