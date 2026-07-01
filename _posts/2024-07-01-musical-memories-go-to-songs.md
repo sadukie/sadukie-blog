@@ -1,6 +1,7 @@
 ---
 title: "Musical Memories – Go-to Songs"
 tags: music musical-background music-theory
+featuredImage: /assets/images/categories/music.png
 ---
 
 Last night, my family went to see [Raiders of the Lost Ark](https://programs.clevelandorchestra.com/2024-blossom/raiders-of-the-lost-ark) at Blossom Music Center, with the soundtrack being played live by [The Cleveland Orchestra](https://www.clevelandorchestra.com/). As the musicians were coming out and warming up their instruments, my husband noticed how excited I would get when certain instruments warmed up. He asked me a question he hasn't asked me at all in the almost 3 decades together – what are my go-to pieces for warming up? Ok… let's go through those songs.
