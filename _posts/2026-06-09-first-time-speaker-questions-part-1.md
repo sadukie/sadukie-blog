@@ -1,5 +1,5 @@
 ---
-title: "First-Time Speaker Questions, Part 1"
+title: "First-Time Speaker Questions, Part 1 - First Speaking Opportunities"
 author: sadukie
 date: "2026-06-09T08:13:50.000Z"
 description: "How Sadukie got into speaking and one piece of advice for a first-time speaker"
