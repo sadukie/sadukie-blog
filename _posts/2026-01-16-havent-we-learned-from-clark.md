@@ -1,3 +1,12 @@
+---
+title: "Haven't We Learned from Clark?"
+author: sadukie
+date: "2026-01-16T08:13:50.000Z"
+description: "CodeMash announced CodeMash East. Sadukie's first reaction was - Haven't we learned from Clark?! Clearly not! This post explains her reaction."
+tags: conferences, culture
+featuredImage: /assets/images/categories/community.png
+---
+
 Today, [CodeMash announced CodeMash East](https://codemash.org/announcing-codemash-east/). I wish them the best of luck.
 
 For those wondering where I stand on this...
