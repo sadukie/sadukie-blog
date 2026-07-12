@@ -21,7 +21,7 @@ The short answer is: it can, but it requires significant effort and a willingnes
 
 Here are some steps that might be involved:
 
-- **Acknowledgement & Validation**: The person who caused the harm needs to genuinely acknowledge the impact of their actions - not just apologize for hurting feelings, but demonstrate understanding of why those feelings were triggered.
+- **Acknowledgement & Validation**: This means not just apologizing for hurting feelings, but demonstrating understanding of why those feelings were triggered.
 - **Open Communication (When Possible)**: Creating a safe space for honest conversation is critical - however difficult that may be at first. This needs to be approached with patience and empathy.
 - **Setting New Boundaries**: Establishing clear boundaries about behavior and communication styles from the outset can prevent future harm.
 - **Self-Regulation**: For me, this means learning new coping mechanisms, recognizing my triggers early on, and having strategies in place for when overwhelm arises (like stepping away).
