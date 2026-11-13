@@ -1,6 +1,7 @@
 ---
 title: "CodeMash 2022 Recap - Precompiler Days 1 and 2"
 tags: conferences community
+featuredImage: /assets/images/categories/community.png
 ---
 
 Last week, I went to my first in-person tech event for 2022 – CodeMash. These are some of the things I caught over the first couple days.

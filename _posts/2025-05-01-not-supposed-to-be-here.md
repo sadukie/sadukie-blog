@@ -2,6 +2,7 @@
 title: Not Supposed to be Here Today
 description: "Discover the unexpected twists in my community leadership journey. From stepping down from one conference due to future conflicts, to taking on new roles and ultimately realizing they weren't the right fit, here's how I ended up attending the first conference!"
 tags: conferences
+featuredImage: /assets/images/categories/community.png
 ---
 
 As I prepare for Stir Trek 2025, Dante from the Kevin Smith films is in my head, saying ["I'm not even supposed to be here today"](https://www.youtube.com/watch?v=zD8K6P7Mq9g). So let's talk about this.

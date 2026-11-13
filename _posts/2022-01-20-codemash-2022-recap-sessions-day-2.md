@@ -1,6 +1,7 @@
 ---
 title: "CodeMash 2022 Recap - Sessions Day 2"
 tags: conferences community
+featuredImage: /assets/images/categories/community.png
 ---
 
 There were 2 days of precompiler (workshop) sessions and 2 days of conference talks at CodeMash. These are my tales from day 2 of conference talks.

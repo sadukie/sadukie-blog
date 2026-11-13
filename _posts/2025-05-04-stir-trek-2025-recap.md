@@ -2,6 +2,7 @@
 title: Stir Trek 2025 recap
 description: "From front-end technologies to .NET-related topics, these are some of the things Sadukie shares from Stir Trek 2025!"
 tags: conferences careers
+featuredImage: /assets/images/categories/community.png
 ---
 
 On May 2nd, I had the opportunity to attend [Stir Trek](https://stirtrek.com). While [Dante kept telling me "I'm not supposed to be here today"](/2025/05/01/not-supposed-to-be-here), I knew the universe had reasons for playing out like it did. So for that, I'm thankful!

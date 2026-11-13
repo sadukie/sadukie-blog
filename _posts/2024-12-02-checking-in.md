@@ -1,6 +1,7 @@
 ---
 title:  "Checking In"
 tags: community careers
+featuredImage: /assets/images/categories/community.png
 ---
 
 It's been awhile since I last wrote here, so I wanted to check in and let you know what's going on.

@@ -1,6 +1,7 @@
 ---
 title: "Representation Matters"
 tags: community careers
+featuredImage: /assets/images/categories/community.png
 ---
 
 I'm normally not this fired up unless something really irks me. I heard this news earlier today and am still seething late in the day. Time to blog.

@@ -2,6 +2,7 @@
 title: Why I Do Both Written Content and Videos
 description: "Learn why I create both video and written content. You might be surprised as to why!"
 tags: community training content-creation
+featuredImage: /assets/images/categories/community.png
 ---
 
 Yesterday, I was watching [Ted Young stream on Twitch](https://twitch.tv/jitterted). He streams on things like Java, Java Spring, and testing. He also is in the Domain-Driven Design community, which is how I found him.
