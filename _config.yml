@@ -1,4 +1,6 @@
 baseurl: ""
+url: "https://sadukie.com"
+lang: en-US
 title: The Adventures of Sadukie
 description: "100% me, unapologetically"
 remote_theme: just-the-docs/just-the-docs
@@ -7,9 +9,25 @@ search_enabled: true
 search:
   heading_level: 3
 
+twitter:
+  card: summary_large_image
+  username: sadukie
+
+author:
+  name: 'Sarah "Sadukie" Dutkiewicz'
+  picture: /assets/images/headshots/sadukie-headshot-2023.png
+
+social:
+  name: 'Sarah "Sadukie" Dutkiewicz'
+  links:
+    - https://linkedin.com/in/sadukie
+    - https://github.com/sadukie
+    - https://youtube.com/@sadukie
+
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-feed
+- jekyll-sitemap
 
 defaults:
  -

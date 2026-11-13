@@ -1,0 +1,63 @@
+# The Adventures of Sadukie
+
+> 100% me, unapologetically. Sadukie (Sarah Dutkiewicz) is a software architect, tech educator, and community advocate writing about software development, AI, user experience, careers, and building inclusive tech communities.
+
+## Core pages
+
+- [Home](https://sadukie.com/): The Adventures of Sadukie
+- [About Me](https://sadukie.com/about-me/): Background, FAQs, and what Sadukie stands for
+- [Blog](https://sadukie.com/blog.html): All posts
+- [Course Development](https://sadukie.com/course-development.html): Courses and training
+- [In the Community](https://sadukie.com/in-the-community.html): Talks, podcasts, and community work
+- [Recommended Reading](https://sadukie.com/recommended-reading.html): Books and resources
+- [Feed](https://sadukie.com/feed.xml): Atom feed
+- [Sitemap](https://sadukie.com/sitemap.xml): XML sitemap
+
+## Posts
+
+- [Recap from World Usability Day 2026](https://sadukie.com/2026/11/12/world-usability-day-recap.html): Sadukie attended World Usability Day 2026 hosted by UX Akron and presented "Beyond the Prompt".
+- [Veterans Day 2026 - About Vets Who Code](https://sadukie.com/2026/11/11/vetswhocode.html): About Vets Who Code, which gives veterans and military spouses training in software engineering.
+- [The Importance of Emotional Safety](https://sadukie.com/2026/07/12/the-importance-of-emotional-safety.html): Without emotional safety, you will not get fully authentic representation.
+- [The Plight of Women in Tech 20+ Years Later](https://sadukie.com/2026/07/01/the-plight-of-women-in-tech.html): Why are women leaving tech? AI, tech bros, and a culture that is still toxic 20+ years later.
+- [First-Time Speaker Questions, Part 2 - The Secrets of Submitting Talks](https://sadukie.com/2026/06/25/first-time-speaker-questions-part-2.html): Insights on submitting talks.
+- [No Excuses for Manels](https://sadukie.com/2026/06/18/no-excuses-for-manels.html): There is no excuse for all-male panels; includes groups for finding others in tech.
+- [First-Time Speaker Questions, Part 1 - First Speaking Opportunities](https://sadukie.com/2026/06/09/first-time-speaker-questions-part-1.html): How Sadukie got into speaking and advice for first-time speakers.
+- [Thoughts on 'Well, Actually' Man or Maybe Neurospicy Man?](https://sadukie.com/2026/04/28/thoughts-on-well-actually-man.html): Is "Well Actually Man" just another neurospicy person on a mission?
+- [Is AI a Yes Man?](https://sadukie.com/2026/03/24/is-ai-a-yes-man.html): Why AI that always agrees is less useful than AI that can be wrong and change its mind.
+- [Sadukie Explores Programming Language Personas](https://sadukie.com/2026/02/09/language-personas.html): Programming languages have different styles and personas.
+- [Cleveland Tech is not Dead!](https://sadukie.com/2026/01/19/cleveland-tech-is-not-dead.html): A response to the claim that the Cleveland tech scene is dead.
+- [Haven't We Learned from Clark?](https://sadukie.com/2026/01/16/havent-we-learned-from-clark.html): A reaction to the announcement of CodeMash East.
+- [CodeMash 2026 - Day 1](https://sadukie.com/2026/01/13/codemash-day-1.html): Mad Scientist Sharks v2.0 and Mob Programming precompilers.
+- [Goals for 2026](https://sadukie.com/2026/01/05/goals-for-2026.html): User experience and coding adventures ahead.
+- [2025 in Review](https://sadukie.com/2025/12/31/2025-in-review.html): A look back at 2025.
+- [On Writing a Book](https://sadukie.com/2025/12/08/on-writing-a-book.html): Stories about writing a book, prompted by the Anthropic copyright lawsuit.
+- [C# Advent 2025 - St. Nicholas Goodies](https://sadukie.com/2025/12/06/csadvent.html): A terminal UI for St. Nicholas' goodies list using the C# 14 field feature.
+- [Letting Go of a Domain](https://sadukie.com/2025/10/17/letting-go-of-a-domain.html): Coding Geekette is gone.
+- [Eat. Sleep. Code. and Other Negative Culture Signs](https://sadukie.com/2025/08/31/eat-sleep-code-and-other-negative-culture-signs.html): The other side of tech culture that not everyone experiences.
+- [The Lightning Talk on Kindness](https://sadukie.com/2025/07/24/lightning-talk-on-kindness.html): A lightning talk about the power of kindness in a world of despair.
+- [A Week of Mondays](https://sadukie.com/2025/07/18/a-week-of-mondays.html): A personal post about a hard week.
+- [Vibe Coding a BINGO Caller](https://sadukie.com/2025/07/11/vibe-coding-bingo.html): Vibe coding a BINGO caller for a family reunion.
+- [The Tumbling E Developer - Or a Grown Up T-Shaped Developer](https://sadukie.com/2025/07/01/the-tumbling-e-developer.html): What comes after the T-shaped developer.
+- [M365 Password Update Experience SUX](https://sadukie.com/2025/06/30/password-change-sux.html): How to do password update experiences better.
+- [Running Open WebUI + Ollama in Portainer](https://sadukie.com/2025/06/15/running-openwebui-and-ollama-in-portainer.html): How to run Open WebUI with Ollama in Portainer.
+- [Why Engineers Need More Than One Road](https://sadukie.com/2025/06/14/why-engineers-need-more-than-one-road.html): Diversifying skills and the T-shaped developer concept.
+- [The Weight of Community Work](https://sadukie.com/2025/06/09/the-weight-of-community-work.html): Community leadership, burnout, and passing the torch.
+- [The Unsung Heroes of Open Source](https://sadukie.com/2025/06/08/the-unsung-heroes-of-open-source.html): Transparency, gratitude, and sustainable support for open source.
+- [No Apologies for Experiments](https://sadukie.com/2025/06/07/no-apologies-for-experiments.html): Why failed experiments are a natural part of progress.
+- [Choosing Not to Support Technologies](https://sadukie.com/2025/05/15/choosing-not-to-support-technologies.html): When and why to stop supporting certain technologies in your career.
+- [Stir Trek 2025 recap](https://sadukie.com/2025/05/04/stir-trek-2025-recap.html): Front-end and .NET topics from Stir Trek 2025.
+- [Not Supposed to be Here Today](https://sadukie.com/2025/05/01/not-supposed-to-be-here.html): Unexpected twists in a community leadership journey.
+- [Why I Do Both Written Content and Videos](https://sadukie.com/2025/04/23/why-i-do-both-written-content-and-videos.html): Why Sadukie creates both video and written content.
+- [Representation Matters](https://sadukie.com/2025/04/22/repesentation-matters.html): Why representation matters in conference speaker lineups.
+- [Sarah Broke It](https://sadukie.com/2025/04/21/sarah-broke-it.html): How a WordPress update broke the blog and led to moving to a static site.
+- [Getting Back to My Roots](https://sadukie.com/2025/01/02/getting-back-to-my-roots.html): Why 2025 is the year of the front-end: HTML, CSS, JavaScript, HTMX, Tailwind, and web components.
+- [2024 in Review](https://sadukie.com/2024/12/30/2024-in-review.html): A look back at 2024.
+- [🎅 LINQing Up Christmas: .NET 9 Features in Action](https://sadukie.com/2024/12/06/🎅-linqing-up-christmas-net-9-features-in-action): .NET 9 features in action for C# Advent.
+- [Checking In](https://sadukie.com/2024/12/02/checking-in.html): An update on courses and work.
+- [Gemini Adventures: Skibidi Learning with Ohio Riz 🤔](https://sadukie.com/2024/07/12/gemini-adventures-skibidi-learning-with-ohio-riz-🤔.html)
+- [Musical Memories – Go-to Songs](https://sadukie.com/2024/07/01/musical-memories-go-to-songs.html): Go-to songs and musical memories.
+- [Bouncing Between Self-Employment and Other Employers](https://sadukie.com/2024/06/25/bouncing-between-self-employment-and-other-employers.html): Moving between self-employment and other employers.
+- [Unveiling Self-Confidence - Retrospective of 2023](https://sadukie.com/2023/12/30/unveiling-self-confidence-retrospective-of-2023.html): A retrospective on self-confidence in 2023.
+- [CodeMash 2022 Recap - Sessions Day 2](https://sadukie.com/2022/01/20/codemash-2022-recap-sessions-day-2.html): Sessions from day 2 of CodeMash 2022.
+- [CodeMash 2022 Recap - Sessions Day 1](https://sadukie.com/2022/01/19/codemash-2022-recap-sessions-day-1.html): Sessions from day 1 of CodeMash 2022.
+- [CodeMash 2022 Recap - Precompiler Days 1 and 2](https://sadukie.com/2022/01/18/codemash-2022-recap-precompiler-days-1-and-2.html): Precompiler workshops from CodeMash 2022.

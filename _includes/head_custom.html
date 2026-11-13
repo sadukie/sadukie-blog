@@ -1,0 +1,80 @@
+{% if page.featuredImage %}
+  {% assign featured_image = page.featuredImage | absolute_url %}
+  <meta property="og:image" content="{{ featured_image }}">
+  <meta property="og:image:alt" content="{{ page.title | escape }}">
+  <meta name="twitter:image" content="{{ featured_image }}">
+  <meta name="twitter:image:alt" content="{{ page.title | escape }}">
+{% endif %}
+
+{% if page.collection == "posts" %}
+  {% if page.tags %}
+    {% for tag in page.tags %}
+  <meta property="article:tag" content="{{ tag | escape }}">
+    {% endfor %}
+  {% elsif page.tag %}
+  <meta property="article:tag" content="{{ page.tag | escape }}">
+  {% endif %}
+{% endif %}
+
+{% if page.url == "/" or page.url == "/index.html" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.title | jsonify }},
+  "url": {{ "/" | absolute_url | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "inLanguage": {{ site.lang | default: "en-US" | jsonify }},
+  "publisher": {
+    "@type": "Person",
+    "name": {{ site.author.name | default: site.title | jsonify }},
+    "url": {{ "/about-me/" | absolute_url | jsonify }},
+    "sameAs": {{ site.social.links | jsonify }}
+  }
+}
+</script>
+{% endif %}
+
+{% if page.url == "/about-me/" or page.url == "/about-me/index.html" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ site.author.name | jsonify }},
+  "url": {{ page.url | absolute_url | jsonify }},
+  {% if site.author.picture %}"image": {{ site.author.picture | absolute_url | jsonify }},{% endif %}
+  "jobTitle": "Software Architect",
+  "description": "Tech polyglot, software architect, educator, and community advocate who makes technology more approachable.",
+  "sameAs": {{ site.social.links | jsonify }}
+}
+</script>
+{% endif %}
+
+{% if page.collection == "posts" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": {{ "/" | absolute_url | jsonify }}
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Blog",
+      "item": {{ "/blog.html" | absolute_url | jsonify }}
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": {{ page.title | jsonify }},
+      "item": {{ page.url | absolute_url | jsonify }}
+    }
+  ]
+}
+</script>
+{% endif %}
