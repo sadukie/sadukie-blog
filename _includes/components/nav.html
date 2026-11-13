@@ -1,9 +1,27 @@
-<nav>
-    <ul>
-        <li><a href="/disclaimer">Disclaimer</a></li>
-        <li><a href="/about-me">About Me</a></li>
-        <li><a href="/course-development">Course Development</a></li>
-        <li><a href="/the-obligation-of-an-engineer">The Obligation of an Engineer</a></li>
-        <li><a href="/in-the-community">In the Community</a></li>
-    </ul>
+<nav aria-label="Main">
+    <details class="nav-menu" open>
+        <summary>Menu</summary>
+        <ul>
+            <li><a href="/disclaimer">Disclaimer</a></li>
+            <li><a href="/about-me">About Me</a></li>
+            <li><a href="/course-development">Course Development</a></li>
+            <li><a href="/the-obligation-of-an-engineer">The Obligation of an Engineer</a></li>
+            <li><a href="/in-the-community">In the Community</a></li>
+        </ul>
+    </details>
 </nav>
+<script>
+(function () {
+    var menu = document.currentScript.previousElementSibling.querySelector('.nav-menu');
+    var wide = window.matchMedia('(min-width: 901px)');
+    function syncMenu() {
+        if (wide.matches) {
+            menu.setAttribute('open', '');
+        } else {
+            menu.removeAttribute('open');
+        }
+    }
+    syncMenu();
+    wide.addEventListener('change', syncMenu);
+})();
+</script>

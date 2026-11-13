@@ -5,6 +5,7 @@
     {% include components/site-header.html %}
     <div id="content-wrapper">
       <div class="inner clearfix">
+        {% include components/sidebar-search.html %}
         <section id="main-content">
           {{ content }}
           {% include components/posts.html posts=site.posts %}
